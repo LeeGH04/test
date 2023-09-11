@@ -1,0 +1,15 @@
+week02
+-linux command : ls(현재 폴더 내용보기),ls-al(숨김파일까지보기),pwd=(현재 위치 폴더보는) cd(파일 불러오는 느낌0choi eun sol"
+	git config --global --list
+	git commit -m "v0" 
+	git log
+	git checkout hashcode
+	git checkout -
+	git branch -M main 
+	git remote -v
+	git remote add origin https://github.com/LeeGH04/test.git
+	git -v 
+	git push 저장소에 코드 변경분을 업로드하기 위해 사용되는 명령어 
+	git puch -u origin main
+	git colne https://github.com/silverssol/test.git
+	co
